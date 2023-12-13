@@ -14,9 +14,9 @@
             <Label layoutX="113.0" layoutY="14.0" prefHeight="17.0" prefWidth="57.0" styleClass="today" stylesheets="@../../format.css" text="Today" />
             <VBox layoutX="6.0" layoutY="147.0" prefHeight="93.0" prefWidth="226.0" spacing="5.0">
                <children>
-                  <Label prefHeight="43.0" prefWidth="201.0" styleClass="red_text" stylesheets="@../../format.css" text="Alright, come to my home before going night" wrapText="true" />
+                  <Label prefHeight="43.0" prefWidth="201.0" styleClass="red_text" stylesheets="@../../format.css" text="  Alright, come to my home before   going night" wrapText="true" />
                   <Label prefHeight="21.0" prefWidth="156.0" styleClass="red_text" stylesheets="@../../format.css" text="Let me prepare myself first" />
-                  <Label prefHeight="22.0" prefWidth="101.0" styleClass="red_text" stylesheets="@../../format.css" text="See you baby" />
+                  <Label prefHeight="22.0" prefWidth="95.0" styleClass="red_text" stylesheets="@../../format.css" text="See you baby" />
                </children>
             </VBox>
             <VBox layoutX="82.0" layoutY="58.0" prefHeight="68.0" prefWidth="195.0" spacing="5.0">
