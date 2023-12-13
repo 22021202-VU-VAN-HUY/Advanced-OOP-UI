@@ -17,10 +17,8 @@ public class UI extends Application {
         FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("/javaui/demo/viewu.fxml"));
         Parent root = fxmlLoader.load();
         Scene scene = new Scene(root);
-
-        stage.initStyle(StageStyle.TRANSPARENT);
         stage.setScene(scene);
-        stage.setTitle("Mess");
+        stage.setTitle("Messenger");
         root.requestFocus();
         stage.show();
 

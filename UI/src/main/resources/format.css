@@ -9,12 +9,14 @@
 }
 
 .avatar {
-  -fx-background-radius: 50%;
   -fx-background-image: url('icon/avatar.png');
+  -fx-background-radius: 10px;
   -fx-background-size: cover;
   -fx-background-position: center;
-  -fx-background-radius: 10px;
+  -fx-padding: 0px;
+  -fx-alignment: center;
 }
+
 
 .battery {
   -fx-background-image: url('icon/battery.png');
@@ -92,3 +94,25 @@
     -fx-font-size: 20px;
 }
 
+.today{
+    -fx-background-color: white;
+      -fx-background-radius: 10px;
+      -fx-padding: 2px;
+      -fx-alignment: center;
+}
+
+.blue_text{
+    -fx-text-fill: white;
+    -fx-background-color: #0033FF;
+    -fx-background-radius: 10px;
+    -fx-padding: 2px;
+    -fx-alignment: center;
+}
+
+.red_text{
+    -fx-text-fill: white;
+    -fx-background-color: #FF3333;
+    -fx-background-radius: 10px;
+    -fx-padding: 2px;
+    -fx-alignment: center;
+}
