@@ -1,0 +1,94 @@
+.label-time {
+  -fx-font-size: 13px;
+  -fx-font-weight: bolder;
+}
+
+.label-name {
+  -fx-font-size: 15px;
+  -fx-font-weight: bold;
+}
+
+.avatar {
+  -fx-background-radius: 50%;
+  -fx-background-image: url('icon/avatar.png');
+  -fx-background-size: cover;
+  -fx-background-position: center;
+  -fx-background-radius: 10px;
+}
+
+.battery {
+  -fx-background-image: url('icon/battery.png');
+  -fx-background-size: cover;
+  -fx-background-position: center;
+}
+
+.call {
+  -fx-background-image: url('icon/call.png');
+  -fx-background-size: cover;
+  -fx-background-position: center;
+  -fx-padding: 3px;
+  -fx-background-radius: 10px;
+}
+
+.image {
+  -fx-background-image: url('icon/image.png');
+  -fx-background-size: cover;
+  -fx-background-position: center;
+   -fx-padding: 5px;
+   -fx-background-radius: 10px;
+}
+
+.send {
+  -fx-background-image: url('icon/send.png');
+  -fx-background-size: cover;
+  -fx-background-position: center;
+  -fx-padding: 3px;
+  -fx-background-radius: 10px;
+}
+
+.signal {
+  -fx-background-image: url('icon/signal.png');
+  -fx-background-size: cover;
+  -fx-background-position: center;
+}
+
+.video_call {
+  -fx-background-image: url('icon/video-call.png');
+  -fx-background-size: cover;
+  -fx-background-position: center;
+  -fx-padding: 3px;
+  -fx-background-radius: 10px;
+}
+
+.voice-recorder {
+  -fx-background-image: url('icon/voice-recorder.png');
+  -fx-background-size: cover;
+  -fx-background-position: center;
+  -fx-padding: 3px;
+  -fx-background-radius: 10px;
+}
+
+.wifi {
+  -fx-background-image: url('icon/wifi.png');
+  -fx-background-size: cover;
+  -fx-background-position: center;
+}
+
+.online {
+  -fx-background-image: url('icon/online.png');
+  -fx-background-size: cover;
+  -fx-background-position: center;
+  -fx-padding: 1px;
+}
+
+.background{
+   -fx-background-image: url('icon/background.png');
+   -fx-background-size: cover;
+   -fx-background-position: center;
+
+}
+
+.back{
+    -fx-font-size: 20px;
+}
+
